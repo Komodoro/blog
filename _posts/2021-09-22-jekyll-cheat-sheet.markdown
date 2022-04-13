@@ -3,6 +3,7 @@ layout: post
 title:  "Jekyll Cheat Sheet!"
 date:   2021-09-22 22:30:00 +0100
 categories: jekyll
+tags: [jekyll]
 ---
 
 # Jekyll Commands
